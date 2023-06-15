@@ -5,7 +5,10 @@
 
 * [A Survey on In-context Learning](https://arxiv.org/pdf/2301.00234.pdf)
 <img src="taxonomy.png" width="850"/>
-### 
+
+###  In-context Training
+
+### Demenstration desgin
 
 
 ## Prompt-based methods
