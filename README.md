@@ -13,8 +13,34 @@
 * [Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks](https://arxiv.org/abs/2204.07705)
 * [Scaling Instruction: Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
 * [Symbol Tuning: Symbol tuning improves in-context learning in language models](https://arxiv.org/abs/2305.08298)
+* [Self-supervised ICL: Improving In-Context Few-Shot Learning via Self-Supervised Training](https://aclanthology.org/2022.naacl-main.260/)
+* [PICL: Pre-Training to Learn in Context](https://arxiv.org/abs/2305.09137)
 
 ### Demenstration desgin
+* [KATE: What Makes Good In-Context Examples for GPT-3?](https://aclanthology.org/2022.deelio-1.10/)
+* [EPR: Learning To Retrieve Prompts for In-Context Learning](https://aclanthology.org/2022.naacl-main.191/)
+* [PPL: Demystifying Prompts in Language Models via Perplexity Estimation](https://arxiv.org/abs/2212.04037)
+* [SG-ICL: Self-Generated In-Context Learning: Leveraging Auto-regressive Language Models as a Demonstration Generator](https://arxiv.org/abs/2206.08082)
+* [Self-Adaptive In-Context Learning: An Information Compression Perspective for In-Context Example Selection and Ordering](https://arxiv.org/abs/2212.10375)
+* [An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels](https://aclanthology.org/2022.acl-long.60/)
+* [Q-Learning: Active Example Selection for In-Context Learning](https://arxiv.org/abs/2211.04486)
+* [MI: Finding supporting examples for in-context learning](https://arxiv.org/abs/2302.13539)
+* [Topic Model: Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning](https://arxiv.org/abs/2301.11916)
+* [UDR: Unified Demonstration Retriever for In-Context Learning](https://arxiv.org/abs/2305.04320)
+* [Ordering: Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://aclanthology.org/2022.acl-long.556/)
+
+### Instruction learning
+* [Instruction Induction: From Few Examples to Natural Language Task Descriptions](https://arxiv.org/abs/2205.10782)
+* [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)
+* [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560) 
+
+### Multi-hop reasoning
+* [CoT: Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560) 
+* [Complex CoT: Complexity-Based Prompting for Multi-Step Reasoning](https://arxiv.org/abs/2210.00720)
+* [AutoCoT: Automatic Chain of Thought Prompting in Large Language Models](https://arxiv.org/abs/2210.03493)
+* [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350)
+* [MoT: Pre-thinking and Recalling Enable ChatGPT to Self-Improve with Memory-of-Thoughts](https://arxiv.org/abs/2305.05181)
+* [Small Models are Valuable Plug-ins for Large Language Models](https://arxiv.org/abs/2305.08848)
 
 
 ## Prompt-based Methods
