@@ -9,8 +9,11 @@
 ###  In-context training
 * [MetaICL: Learning to Learn In Context](https://aclanthology.org/2022.naacl-main.201/)
 * [OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization](https://arxiv.org/abs/2212.12017)
-* [Finetuned Language Models are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR)
-* 
+* [FLAN: Finetuned Language Models are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR)
+* [Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks](https://arxiv.org/abs/2204.07705)
+* [Scaling Instruction: Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
+* [Symbol Tuning: Symbol tuning improves in-context learning in language models](https://arxiv.org/abs/2305.08298)
+
 ### Demenstration desgin
 
 
