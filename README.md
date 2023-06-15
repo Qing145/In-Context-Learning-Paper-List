@@ -7,7 +7,10 @@
 <img src="taxonomy.png" width="850"/>
 
 ###  In-context training
-
+* [MetaICL: Learning to Learn In Context](https://aclanthology.org/2022.naacl-main.201/)
+* [OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization](https://arxiv.org/abs/2212.12017)
+* [Finetuned Language Models are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR)
+* 
 ### Demenstration desgin
 
 
