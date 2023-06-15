@@ -41,6 +41,7 @@
 * [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350)
 * [MoT: Pre-thinking and Recalling Enable ChatGPT to Self-Improve with Memory-of-Thoughts](https://arxiv.org/abs/2305.05181)
 * [Small Models are Valuable Plug-ins for Large Language Models](https://arxiv.org/abs/2305.08848)
+* [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625)
 
 
 ## Prompt-based Methods
