@@ -1,5 +1,13 @@
 # Knowledge-Injection-Paper-List
 
+## In-context learning
+### Survey paper
+
+* [A Survey on In-context Learning](https://arxiv.org/pdf/2301.00234.pdf)
+
+### 
+
+
 ## Prompt-based methods
 
 * [KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction](https://dl.acm.org/doi/abs/10.1145/3485447.3511998?casa_token=1q-XyTkqEM4AAAAA:Wt3G5IX-KkFIfDCMD9GGt94wnO0TgqkSQwE-ClbqhynqD07zSkpJJ6ckGWBbaf_iEU6GkqGJl3ZSjg)
