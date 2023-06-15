@@ -4,7 +4,7 @@
 ### Survey paper
 
 * [A Survey on In-context Learning](https://arxiv.org/pdf/2301.00234.pdf)
-<img src="taxonomy.png" width="450"/>
+<img src="taxonomy.png" width="850"/>
 ### 
 
 
